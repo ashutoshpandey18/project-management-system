@@ -1,15 +1,17 @@
-🚀 ProjectFlow - Modern Project Management System
+# 🚀 ProjectFlow - Modern Project Management System
+
 <div align="center">
-https://img.shields.io/badge/ProjectFlow-Management%2520System-blue
-https://img.shields.io/badge/Django-4.2-green
-https://img.shields.io/badge/React-18-blue
-https://img.shields.io/badge/GraphQL-Apollo-orange
-https://img.shields.io/badge/TypeScript-Full%2520Coverage-blue
-https://img.shields.io/badge/Tests-30%252F30%2520passing-brightgreen
 
-A modern, scalable project management solution built with cutting-edge technologies
+![ProjectFlow](https://img.shields.io/badge/ProjectFlow-Management%20System-blue)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![GraphQL](https://img.shields.io/badge/GraphQL-Apollo-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Full%20Coverage-blue)
+![Tests](https://img.shields.io/badge/Tests-30%2F30%20passing-brightgreen)
 
-Features • Tech Stack • Quick Start • API Docs • Testing
+*A modern, scalable project management solution built with cutting-edge technologies*
+
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [API Docs](#-graphql-api) • [Testing](#-testing)
 
 </div>
 
